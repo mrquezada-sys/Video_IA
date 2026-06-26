@@ -22,3 +22,4 @@ jobs:
           args: >
             -Dsonar.projectKey=mrquezada-sys_video-ia
             -Dsonar.organization=mrquezada-sys
+
