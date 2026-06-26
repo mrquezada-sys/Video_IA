@@ -9,4 +9,4 @@ def calcular_descuento(precio):
         return precio
 
 # Error 3: Una clave secreta expuesta (Vulnerabilidad crítica)
-API_KEY_SECRET = "sk-prod-1234567890abcdef"
+API_KEY_SECRET = "sk-prod-1234567890abcdef"#
